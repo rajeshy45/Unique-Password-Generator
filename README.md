@@ -1,4 +1,15 @@
 # Unique-Password-Generator
+
+## Downloads
+
+Download the application here.
+
+| **Windows** | **Linux** |
+|-------------|-----------|
+| [download](https://drive.google.com/file/d/10j3SVYilFf_0Fqzzi-I6n8xzYtwu9hAR/view?usp=sharing) | [download](https://drive.google.com/file/d/13Fkjnz_BU0lGOI5_teKgTgB4LaNWjp5B/view?usp=sharing) |
+
+## About
+
 A python GUI application that can generate, save, encrypt and decrypt your passwords or texts.
 
 Project Title: Unique Password Generator
